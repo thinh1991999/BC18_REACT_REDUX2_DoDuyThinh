@@ -27,6 +27,7 @@ function Home() {
         padding: `100px 0 100px 0`,
       }}
     >
+      <h2 className="text-center fs-1 red fw-bold">Quản Lý Sinh Viên</h2>
       <Modal />
       <div className="p-3">
         <table className="table">
